@@ -9,3 +9,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE, fig.width = 8, fig.height = 8, fig.alig = "center")
 ```
 
+
+## Library
+```{r}
+library(tidyverse)
+library(gridExtra)
+```
+
